@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: asddds
+  labels:
+    environment-id: env_001eec53-0187-46b0-94ba-acd7e98237d7
+    project-id: project_f9db1545-e70b-472a-a522-6d017f74d35a
+    project-name: fghfgh
+    environment-name: prod
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6
